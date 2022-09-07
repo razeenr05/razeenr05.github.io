@@ -3,13 +3,19 @@ body{
 }
 p{
     color:#0047AB;
+    font-family:trebuchet ms;
 }
 h2{
-    color:#242D6E
+    color:#242D6E;
+    font-family:impact;
 }
 h3{
     color:#1F552A;
+    font-family:verdana;
 }
 button{
     background-color:grey
+}
+a{
+    font-family:trebuchet ms;
 }
