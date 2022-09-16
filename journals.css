@@ -3,7 +3,10 @@ body{
 }
 p{
     color:#0047AB;
-    font-family:trebuchet ms; 
+    font-family:trebuchet ms;
+}
+h1{
+    text-align:center;
 }
 h2{
     color:#242D6E;
