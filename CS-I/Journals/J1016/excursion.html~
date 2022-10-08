@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+      <head>
+	<link rel="stylesheet" href="../../../journals.css">
+	<meta charset="utf-8">
+	<title>CS-I Journal J1016 Excursion</title>
+      </head>
+
+<body>
+  <h1>CS-I Journal J1016: Logic Composition Excursion</h1>
+
+  <h2>Seven Segment LED Digits</h2>
+  <p> Visual represenatation of the 16 digits which will be displayed by the 7 segment LED.</p>
+  <img src="7seg.png" class="center" alt="Cannot Load" width="1200" height="700">
+
+  <h2>Four-Bit Binary Input Representation</h2>
+  <p>Assume the 4 inputs are labelled as a, b, c, and d. The output represents the digit which will be displayed on the 7 Segment LED.</p>
+  <img src="four-bit.png" class="center" alt="Cannot Load" width="700" height="800">
+
+  <button class="footer" onclick="location.href='J1016.html' ">Back</button>
+</body>
+</html>

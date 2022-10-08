@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="../../../journals.css">
+    <meta charset="utf-8">
+    <title>CS-I Journal J1016</title>
+  </head>
+
+  <body>
+    <h1>CS-I Journal J1016: Logic Composition</h1>
+    <p>Name: Razeen Rahman</p>
+    <p>Date: 3-Oct-2022</p>
+
+    <p>I reciveved assistance from: No One</p>
+    <p>I assisted: Christopher Wang</p>
+    
+    <a href="excursion.html"><h2>Link to Excursion</h2></a>
+    <br>
+    <h2>Exercises</h2>
+    <p>NOT, AND, OR, NOR, and XOR gates all created from only the use of wires, logic inputs, logic outputs, and NAND gates. Click the image to be redirected to the Falstad Website for the interactive version of image.</p>
+    <a href="https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWEBmAHAJmgdgGzoRmACzICcpkORI5ISCkdApgLRhgBQAHuEsliHRZ0IIo2rpqAOQCGAWyYAuADoBnAEoyAXkyYA7NZoAWcmXu7gcILKnBZkIVBAnUAIjIAuStWEgB6SGQ-dHQLMFIrMGEUSGoopBcQKQB5ABU1AHFPJg4AWRR0RhDqZBxbYqhBaAQOMAQIXHLJRwjBZqLKmoAZazLBSFthIoHKiAAzGQAbVSY6KA4exsExa0LlxkZxqZm5yFr6mnQmuMgEKwqO+g4Adxbz5tRWwts928f76nf1+benkdIjv0Xjc7t8AeUVns6hBwiIKsg1hdBJ0QbCgeAAW1qK8MXCVmiLgtcVjwEQJO1wCAJtNZkg9vlfGcSexYiSitULKgEXZGKQiDD7KJliAAIJSVyZbIWQoCZAMGIQOUORLJdSSrz7CCocRwEliDbIq5vRhoT46jYg7WiMBWK36+Y9O267n2g3UnZ0ol2q0uq2bKnbWnzaGCaIkET8qzhyoiI16q1CCNEYG3Cr2xPWqz0zOiX3ibnsmoh71FZrJg0iRg1Y2iKiOcR+y3iVoln4gPDUcvtst1nEd0TJ7ud3uaoe16hLIi9w10EFLU2OG2iXU4yd1pxRgujjc5iLiJcdKtE-tT6gIXDjyqMd1BvY9fsL89WBduwO7EEn3UP1DYj-NUq2N+v4hkBvS2C+M5Fgc5ARku7ClDmlyzrcMHLrymKRm2qHRthB4gnuu4YXhDJgAhmFgIU+5ZlUNQ8D+ipyjQCAOMgaBCs0KRqqoWQaiGRCtFgCAiFQjCCZWyJHiG9hWDgTKoFasnUbGs5SQhXIiPJjDqTGczVjmImiAJCE4phP62PxVhLCZS4GdJ7aQiCpmDnZZltrZQnWGpeG3O5Ih2Tg0RQgcXx2b4Kx2YeyGOApckCWsOKaY43IhR52ZhaJCEshOxk0USmEGaxMmQpSN7vj0TngWpg7+qVno8DgkACAgpANFEdB8ux1AABqquqORAA">
+      <img src="circuit.png" class="center" alt="Cannot Load" width="1200" height="800">
+    </a>
+    <button class="footer" onclick="location.href='../../index.html' ">Back</button>
+  </body>
+  </html>
