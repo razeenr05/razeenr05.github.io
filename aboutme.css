@@ -1,8 +1,8 @@
 body{
-    background-color:#8A9A5B;
+    background-color:#0A191E;
 }
 p{
-    color:#0047AB;
+    color:#D8B65C;
     font-family: trebuchet ms;
     text-align:left;
     margin-left:400px;
@@ -10,12 +10,13 @@ p{
     font-size:20px;
 }
 h1{
+    color:#C0C0C0;
     text-align:center;
     font-size:50px;
     font-family:copperplate;
 }
 h2{
-    color:#242D6E;
+    color:#4A9878;
     font-family:impact;
     text-align:center;
     font-size:30px;

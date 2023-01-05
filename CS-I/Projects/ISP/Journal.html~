@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="../../../journals.css">
+    <meta charset="utf-8">
+    <title>ISP Journal</title>
+  </head>
+
+  <body>
+    <h1>ISP Journal</h1>
+    <h2>Week 1 Entry: 01/02/23</h2>
+    <h3>(Software) Development Engineer</h3>
+    <p>Software/Development Engineers are people who develop and design computer software and applications. They are more commonly known as a "coder" in today's world, and they are cruicial in our day-to-day lives. Think about the apps one uses on their mobile device; those are created and constantly kept up to date by software engineers. To be a software/development enginner, qualities such as mathematical expertise and problem-solving skills are required, but most importantly, knowledge in programming languages (such as Python, Java, Swift, etc.) is required in order to create the code itself. I believe this role would be suitable for me because I am well-versed in mathermatics and I am able to troubleshoot problems I encounter which would allow me to efficiently debug code as I write it. A challenge I would expect to encounter in this role is a lack of knowledge in a programming language, however, this can easily be avoided with proper practice and learning through means such as CoderMerlin wikis and continuing my ProjectStem courses. </p>
+    <h3>QA Engineer</h3>
+    <p>QA Engineers are the people who test, identify issues, and fix code before it is released, or submitted in our case. Depending on whether the QA Engineer plans on fixing the code themselves or not, they may not have to be as sufficent in programming languages as a software engineer, however, it would be in their favor to have knowledge in such languages to effectively debug and test it. However, the role surely requires the ability to pay attention to little details, patience, problem solving skills, and communication skills to relay information to the software/development engineers. I believe I could take on this role if need be because I would be able to dedicate the time to identify small errors within te code and fix them. A challenge I may face in this role however is communication because I would have to work highly in conjunction with the software/development engineer and I do not have experience in coding with another person. This challenge could easily be minimized through getting to know your own team mates and learning to work in conjuction with them on the same task. </p>
+    <h3>Project Manager</h3>
+    <p> </p>
+    <h3>Product Manager</h3>
+    <p> </p>
+    <h3>Release Engineer</h3>
+    <p> </p>
+
+   
+  </body>
+  <button style="background-color:#C0C0C0;" class="footer" onclick=location.href='../../index.html' ">Back</button>
+</html>
